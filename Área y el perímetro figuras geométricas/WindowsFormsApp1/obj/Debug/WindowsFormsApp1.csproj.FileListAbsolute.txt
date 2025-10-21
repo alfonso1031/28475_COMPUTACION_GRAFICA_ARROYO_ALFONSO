@@ -1,0 +1,44 @@
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Circulo.resources
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Poligono.resources
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rectangulo.resources
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cuadrado.resources
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Romboide.resources
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Trapecio.resources
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Triangulo.resources
+C:\Users\ESPE-LABS\Downloads\grafica\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rombo.resources
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Circulo.resources
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Poligono.resources
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rectangulo.resources
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cuadrado.resources
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Romboide.resources
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Trapecio.resources
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Triangulo.resources
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rombo.resources
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\28475_COMPUTACION_GRAFICA_ARROYO_ALFONSO\Área y el perímetro figuras geométricas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
